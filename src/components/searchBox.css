@@ -1,0 +1,13 @@
+.searchBox{
+    width:90vw;
+    display: flex;
+}
+
+.input{
+    text-align: center;
+    width:90vw;
+    height:35px;
+    border:1px solid gray;
+    outline: none;
+    border-radius: 10px;
+}
